@@ -3,7 +3,7 @@ import json
 listNumbers = [1]
 tupleNumbers = (1,5,6,3)
 
-jsonData1 =  json.dump(listNumbers)
+jsonData1 =  json.dumps(listNumbers)
 jsonData2 = json.dumps(tupleNumbers)
 
 print("list turn to json :",jsonData1,"->",jsonData2)
