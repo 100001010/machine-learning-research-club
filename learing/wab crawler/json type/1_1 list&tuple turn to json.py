@@ -1,6 +1,6 @@
 import json
 
-listNumbers = [1,3,2,5]
+listNumbers = [1]
 tupleNumbers = (1,5,6,3)
 
 jsonData1 =  json.dumps(listNumbers)
