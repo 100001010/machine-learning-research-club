@@ -1,0 +1,1 @@
+a="20221001"b= str(int(a)+1)import yfinance as yfdf = yf.download("spy","2021-01-01")a=df
